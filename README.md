@@ -6,20 +6,16 @@
 ## 🧠 About Me
 
 👋 Hello! I’m Ali Yaqubi (dayigorbay), a 16-year-old student in the Network & Software field and a software developer from Neyshabur, Iran 🇮🇷.
-
 🚀 I’m deeply passionate about building scalable, high-performance software and applications, exploring modern architectures in computer engineering, and constantly learning new and emerging technologies.
-
 🤖 During my childhood, I was actively involved in electronics and robotics, but over time—through deep immersion in the world of gaming 🎮—I was drawn toward programming and computer engineering, which has now become an essential part of my daily life.
-
 💻 I started programming by designing multiplayer gaming environments (such as MTA:SA), and later moved toward web application development and software engineering.
-
 🎯 Currently, my main goals are continuing my education and immigrating, while pursuing computer engineering and simultaneously managing and working on programming projects.
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,netcore,lua,photoshop,premiere" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,.net,lua,photoshop,premiere" />
 </p>
 
 ---
