@@ -24,22 +24,21 @@
 
 ---
 
-### 🚀 Current Goals
-- 🧩 Master problem-solving & algorithms  
-- 🏗 Build real-world backend & full-stack projects  
-- 🧠 Prepare for **Computer Olympiad & Technical Exams**  
-- 🌍 Improve English to a professional level  
+## 🚀 Current Goals
+- 🎓 Focus on education in Computer Engineering
+- 🌍 Improve technical and professional English proficiency
+- 🚀 Prepare for future academic and international opportunities
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+## 🔗 Let's Connect
 - 🌐 Website: [maliyaqubi.ir](https://maliyaqubi.ir)
 - 💬 Telegram: [@dayigorbay](https://t.me/dayigorbay)
 - 📸 Instagram: [@aliyaqubi88](https://www.instagram.com/aliyaqubi88/)
