@@ -1,55 +1,58 @@
-<h1 align="center">Hello, I'm Ali Yaqubi 👋</h1>
+## Hello, I'm Ali Yaqubi 👋
+Also known online as **DayiGorbay**
 
-<h3 align="center">
-Self-Taught Software Developer • Computer Engineering Student • Future Full-Stack Engineer
-</h3>
-
----
-
-## 👨‍💻 About Me
-I'm a software developer and computer engineering student specializing in **Network & Software**.  
-I started programming out of curiosity and gradually turned it into a serious long-term path.
-
-My main focus areas are:
-- Building solid programming foundations
-- Backend and full-stack development
-- Problem-solving, algorithms, and competitive programming
-- Working with Linux-based systems and real-world tools
-
-I'm constantly learning, experimenting, and improving with the goal of becoming a **high-level computer engineer** and building impactful software in the future.
+### 💼 Software Developer & Freelancer
 
 ---
 
-## 🧠 Skills (Languages & Frameworks)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,cs,lua" />
-</p>
+### 👤 About Me
+I'm Ali Yaqubi, a student and self-taught software developer. Alongside my studies, I work on freelance projects and continuously improve my technical skills.
+
+I’ve been familiar with computers and electronics since childhood. I started working more seriously in the tech field around **2021**, after years of hands-on experience, experimentation, and learning.
+
+My early interests were focused on **electronics and robotics**, but over time I naturally shifted toward **software development**, where I now spend most of my time building, learning, and exploring new technologies.
+
+At the moment, my main goal is steady growth in the fields I’m already working in, while gradually expanding into new areas of software engineering.
 
 ---
 
-## 🎯 Current Focus
-- Strengthening algorithmic thinking and problem-solving
-- Preparing for competitive programming and computer olympiad challenges
-- Gaining deeper understanding of backend systems and architectures
-- Improving English for technical and professional use
+### 🧠 Skills (Languages & Frameworks)
+- Dart / Flutter  
+- C#  
+- .NET  
+- JavaScript  
+- HTML & CSS  
 
 ---
 
-## 🐧 Environment & Tools
-- Linux as a primary working environment
-- Git & GitHub for version control and collaboration
-- Continuous learning through documentation, practice, and real experimentation
+### 🏆 Achievements
+Throughout my journey, I’ve gained valuable experience and improvements in:
+- English language proficiency  
+- Programming and software development  
+- Computer hardware knowledge  
+- Communication and presentation skills  
+- Mentoring and advising others  
+- Graphic design and Photoshop  
+
+These achievements are the result of long-term consistency, practice, and real-world experience rather than short-term goals.
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
-</p>
+### 🚀 Projects & Experience
+I’ve worked on and launched multiple projects and small startup ideas over the years. While many of them were discontinued due to external factors, they played an important role in improving my skills and professional mindset.
+
+Some examples include:
+- Freelance graphic design and Photoshop work
+- Developing an online platform for multiplayer gameplay (discontinued due to team and community issues)
+
+Most of these projects were done to **raise my skill level**, while still maintaining a strong focus on quality.
 
 ---
 
-## 🌐 Vision
-I aim to grow from a self-taught developer into a **professional full-stack and systems-oriented engineer**, focusing on clean code, strong fundamentals, and long-term growth rather than shortcuts.
+### 🎯 Current Focus
+- Deepening my skills in **Flutter**
+- Preparing to move into **backend development with .NET**
+- Building strong software fundamentals
+- Long-term growth as a professional software engineer
 
-> “Build fundamentals first, scale later.”
+> *Focused on progress, not shortcuts.*
