@@ -1,58 +1,53 @@
-## Hello, I'm Ali Yaqubi 👋
-Also known online as **DayiGorbay**
+<h1 align="center">👋 Hi, I'm Ali Yaqubi</h1>
+<h3 align="center">Self-Taught Computer Engineering Student & Future Full-Stack Developer</h3>
 
-### 💼 Software Developer & Freelancer
-
----
-
-### 👤 About Me
-I'm Ali Yaqubi, a student and self-taught software developer. Alongside my studies, I work on freelance projects and continuously improve my technical skills.
-
-I’ve been familiar with computers and electronics since childhood. I started working more seriously in the tech field around **2021**, after years of hands-on experience, experimentation, and learning.
-
-My early interests were focused on **electronics and robotics**, but over time I naturally shifted toward **software development**, where I now spend most of my time building, learning, and exploring new technologies.
-
-At the moment, my main goal is steady growth in the fields I’m already working in, while gradually expanding into new areas of software engineering.
+<p align="center">
+  <a href="#-english">English</a> | 
+  <a href="#-فارسی">فارسی</a>
+</p>
 
 ---
 
-### 🧠 Skills (Languages & Frameworks)
-- Dart / Flutter  
-- C#  
-- .NET  
-- JavaScript  
-- HTML & CSS  
+## 🌍 English
+
+### 🧠 About Me
+I'm **Ali Yaqubi** (aka **dayigorbay**), a computer engineering student in the **Network & Software** field.  
+I started my journey in tech in **2021**, driven by curiosity and a passion for problem-solving.
+
+I'm currently focused on:
+- Competitive programming & **Computer Olympiad**
+- Backend & full-stack development
+- Linux, systems, and real-world software engineering
+
+🎯 My long-term goal is to become a **top-tier computer engineer**, study at **top technical universities**, and build impactful software products.
 
 ---
 
-### 🏆 Achievements
-Throughout my journey, I’ve gained valuable experience and improvements in:
-- English language proficiency  
-- Programming and software development  
-- Computer hardware knowledge  
-- Communication and presentation skills  
-- Mentoring and advising others  
-- Graphic design and Photoshop  
-
-These achievements are the result of long-term consistency, practice, and real-world experience rather than short-term goals.
+### 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,cs,lua,linux,git,github" />
+</p>
 
 ---
 
-### 🚀 Projects & Experience
-I’ve worked on and launched multiple projects and small startup ideas over the years. While many of them were discontinued due to external factors, they played an important role in improving my skills and professional mindset.
-
-Some examples include:
-- Freelance graphic design and Photoshop work
-- Developing an online platform for multiplayer gameplay (discontinued due to team and community issues)
-
-Most of these projects were done to **raise my skill level**, while still maintaining a strong focus on quality.
+### 🚀 Current Goals
+- 🧩 Master problem-solving & algorithms  
+- 🏗 Build real-world backend & full-stack projects  
+- 🧠 Prepare for **Computer Olympiad & Technical Exams**  
+- 🌍 Improve English to a professional level  
 
 ---
 
-### 🎯 Current Focus
-- Deepening my skills in **Flutter**
-- Preparing to move into **backend development with .NET**
-- Building strong software fundamentals
-- Long-term growth as a professional software engineer
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
+</p>
 
-> *Focused on progress, not shortcuts.*
+---
+
+### 🔗 Let's Connect
+- 🌐 Website: [maliyaqubi.ir](https://maliyaqubi.ir)
+- 💬 Telegram: `@dayigorbay`
+- 📧 Email: your-email@example.com
+
+> 💡 *"Learn deeply, build seriously, and never stop improving."*
