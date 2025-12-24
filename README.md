@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ali Yaqubi (DayiGorbay)</h1>
-<h3 align="center">Self-Taught Computer Engineering Student & Future Full-Stack Developer</h3>
+<h3 align="center">Software Developer and Graphic Designer</h3>
 
 ---
 
