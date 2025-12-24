@@ -25,9 +25,9 @@
 ---
 
 ## 🚀 Current Goals
-- 🎓 Focus on education in Computer Engineering
-- 🌍 Improve technical and professional English proficiency
-- 🚀 Prepare for future academic and international opportunities
+- 🎓 Focus on studying Computer Engineering and pursuing academic immigration
+- 🌍 Focus on strengthening my English language proficiency
+- 🧠 Focus on deep, professional learning in my current fields of expertise
 
 ---
 
