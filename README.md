@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Let's Connect
 - 🌐 Website: [maliyaqubi.ir](https://maliyaqubi.ir)
 - 💬 Telegram: [@dayigorbay](https://t.me/dayigorbay)
