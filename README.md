@@ -17,9 +17,9 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,dotnetcore,lua,photoshop,premiere" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,netcore,lua,photoshop,premiere" />
 </p>
 
 ---
