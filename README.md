@@ -44,6 +44,7 @@
 - 📸 Instagram: [@aliyaqubi88](https://www.instagram.com/aliyaqubi88/)
 - 📧 Email: maliyaqubi2009@gmail.com
 
+---
 
 <p align="center">
   💡 *"Learn deeply, build seriously, and never stop improving."*
