@@ -1,31 +1,25 @@
-<h1 align="center">👋 Hi, I'm Ali Yaqubi</h1>
+<h1 align="center">👋 Hi, I'm Ali Yaqubi (DayiGorbay)</h1>
 <h3 align="center">Self-Taught Computer Engineering Student & Future Full-Stack Developer</h3>
-
-<p align="center">
-  <a href="#-english">English</a> | 
-  <a href="#-فارسی">فارسی</a>
-</p>
 
 ---
 
-## 🌍 English
+## 🧠 About Me
 
-### 🧠 About Me
-I'm **Ali Yaqubi** (aka **dayigorbay**), a computer engineering student in the **Network & Software** field.  
-I started my journey in tech in **2021**, driven by curiosity and a passion for problem-solving.
+👋 Hello! I’m Ali Yaqubi (dayigorbay), a 16-year-old student in the Network & Software field and a software developer from Neyshabur, Iran 🇮🇷.
 
-I'm currently focused on:
-- Competitive programming & **Computer Olympiad**
-- Backend & full-stack development
-- Linux, systems, and real-world software engineering
+🚀 I’m deeply passionate about building scalable, high-performance software and applications, exploring modern architectures in computer engineering, and constantly learning new and emerging technologies.
 
-🎯 My long-term goal is to become a **top-tier computer engineer**, study at **top technical universities**, and build impactful software products.
+🤖 During my childhood, I was actively involved in electronics and robotics, but over time—through deep immersion in the world of gaming 🎮—I was drawn toward programming and computer engineering, which has now become an essential part of my daily life.
+
+💻 I started programming by designing multiplayer gaming environments (such as MTA:SA), and later moved toward web application development and software engineering.
+
+🎯 Currently, my main goals are continuing my education and immigrating, while pursuing computer engineering and simultaneously managing and working on programming projects.
 
 ---
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,cs,lua,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,lua,photoshop,premiere" />
 </p>
 
 ---
@@ -47,7 +41,8 @@ I'm currently focused on:
 
 ### 🔗 Let's Connect
 - 🌐 Website: [maliyaqubi.ir](https://maliyaqubi.ir)
-- 💬 Telegram: `@dayigorbay`
-- 📧 Email: your-email@example.com
+- 💬 Telegram: [@dayigorbay](https://t.me/dayigorbay)
+- 📸 Instagram: [@aliyaqubi88](https://www.instagram.com/aliyaqubi88/)
+- 📧 Email: maliyaqubi2009@gmail.com
 
 > 💡 *"Learn deeply, build seriously, and never stop improving."*
