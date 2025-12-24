@@ -1,95 +1,55 @@
-<h1 align="center">👋 Hi, I'm Ali Yaqubi</h1>
-<h3 align="center">Self-Taught Computer Engineering Student & Future Full-Stack Developer</h3>
+<h1 align="center">Hello, I'm Ali Yaqubi 👋</h1>
 
-<p align="center">
-  <a href="#-english">English</a> | 
-  <a href="#-فارسی">فارسی</a>
-</p>
+<h3 align="center">
+Self-Taught Software Developer • Computer Engineering Student • Future Full-Stack Engineer
+</h3>
 
 ---
 
-## 🌍 English
+## 👨‍💻 About Me
+I'm a software developer and computer engineering student specializing in **Network & Software**.  
+I started programming out of curiosity and gradually turned it into a serious long-term path.
 
-### 🧠 About Me
-I'm **Ali Yaqubi** (aka **dayigorbay**), a computer engineering student in the **Network & Software** field.  
-I started my journey in tech in **2021**, driven by curiosity and a passion for problem-solving.
+My main focus areas are:
+- Building solid programming foundations
+- Backend and full-stack development
+- Problem-solving, algorithms, and competitive programming
+- Working with Linux-based systems and real-world tools
 
-I'm currently focused on:
-- Competitive programming & **Computer Olympiad**
-- Backend & full-stack development
-- Linux, systems, and real-world software engineering
-
-🎯 My long-term goal is to become a **top-tier computer engineer**, study at **top technical universities**, and build impactful software products.
+I'm constantly learning, experimenting, and improving with the goal of becoming a **high-level computer engineer** and building impactful software in the future.
 
 ---
 
-### 💻 Tech Stack
+## 🧠 Skills (Languages & Frameworks)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,cs,lua,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,dart,flutter,cs,lua" />
 </p>
 
 ---
 
-### 🚀 Current Goals
-- 🧩 Master problem-solving & algorithms  
-- 🏗 Build real-world backend & full-stack projects  
-- 🧠 Prepare for **Computer Olympiad & Technical Exams**  
-- 🌍 Improve English to a professional level  
+## 🎯 Current Focus
+- Strengthening algorithmic thinking and problem-solving
+- Preparing for competitive programming and computer olympiad challenges
+- Gaining deeper understanding of backend systems and architectures
+- Improving English for technical and professional use
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
-</p>
+## 🐧 Environment & Tools
+- Linux as a primary working environment
+- Git & GitHub for version control and collaboration
+- Continuous learning through documentation, practice, and real experimentation
 
 ---
 
-### 🔗 Let's Connect
-- 🌐 Website: [maliyaqubi.ir](https://maliyaqubi.ir)
-- 💬 Telegram: `@dayigorbay`
-- 📧 Email: your-email@example.com
-
----
-
-## 🇮🇷 فارسی
-
-### 🧠 درباره من
-من **علی یعقوبی** هستم با نام کاربری **dayigorbay**.  
-دانش‌آموز رشته **شبکه و نرم‌افزار** و علاقه‌مند جدی به کامپیوتر، برنامه‌نویسی و حل مسئله.
-
-از سال **۱۴۰۰** وارد دنیای تکنولوژی شدم و الان تمرکزم روی:
-- المپیاد کامپیوتر و الگوریتم
-- برنامه‌نویسی بک‌اند و فول‌استک
-- لینوکس و مفاهیم سطح پایین سیستم
-
-🎯 هدفم تبدیل شدن به یک **مهندس کامپیوتر حرفه‌ای و شناخته‌شده** و ساخت نرم‌افزارهای تأثیرگذار در سطح بالاست.
-
----
-
-### 💻 مهارت‌ها
-- Dart / Flutter  
-- C#  
-- HTML, CSS, JavaScript  
-- Node.js  
-- Linux  
-- Git & GitHub  
-
----
-
-### 🚀 اهداف فعلی
-- تقویت حل مسئله و الگوریتم  
-- ساخت پروژه‌های واقعی  
-- موفقیت در المپیاد و مسیر فنی  
-- تسلط کامل به زبان انگلیسی  
-
----
-
-### 📊 آمار گیت‌هاب
+## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=dayigorbay&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-> 💡 *"Learn deeply, build seriously, and never stop improving."*
+## 🌐 Vision
+I aim to grow from a self-taught developer into a **professional full-stack and systems-oriented engineer**, focusing on clean code, strong fundamentals, and long-term growth rather than shortcuts.
+
+> “Build fundamentals first, scale later.”
