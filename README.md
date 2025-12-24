@@ -18,8 +18,8 @@
 ---
 
 ### 💻 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,lua,photoshop,premiere" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,cs,dotnetcore,lua,photoshop,premiere" />
 </p>
 
 ---
